@@ -1,49 +1,22 @@
-### Hi there 👋
+<h2> Hi, I'm Vito Putra Sutarno! <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="40"></h2>
+<img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="175">
+<p><em>Software Engineer <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
+</em></p>
 
-## Vito Putra Sutarno
+[![Instagram: vito.putra.s](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vito.putra.s)
+[![GitHub vitooputraa](https://img.shields.io/github/followers/dimasabimanyy?label=follow&style=social)](https://github.com/vitooputraa)
 
-> Hi, Welcome to my profile
 
-![Vito Putra Sutarno](assets/3x4.jpg)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-## About me
+```javascript
+const vito = {
+  pronouns: "he",
+  code: [Javascript, HTML, CSS, Python],
+  tools: [React, Bootstrap, Laravel, Styled-Components]
+}
+```
 
-I am a passionate and dedicated individual with a strong interest in Sports and Information Technology.
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-## Contact Information
-
-- **Email:** vitovitoboom12@gmail.com 
-- **LinkedIn:** [Vito Putra Sutarno](https://www.linkedin.com/in/vitoputrasutarno/)
-- **GitHub:** [vitooputraa](https://github.com/vitooputraa)
-- **Instagram:** [vito.putra.s](https://instagram.com/vito.putra.s)
-
-## Education
-
-- **Bachelor Of Sains in Information System**
-  Universitas Indonesia, 2022
-
-## Work Experience
-
-- **Student at RevoU Bootcamp**
-  October 2023 - July 2024
-  - Student at RevoU Software Engineering Section Seoul.
-
-## Skills
- 
-- **Programming Languanges:** Python, Java, C.
-- **Tools and Technologies:** Visual Studio Code, Unix, AVRStudio MFC.
-
-## Projects
-
-- **Kafe Daun-Daun Pacilkom**
-  The project is a Python application for managing a cafe called "Kafe Daun-Daun Pacilkom." It provides various features for both customers and cafe staff.
-
-## Interests
-
-- E-Sport Mobile Legends Pro Scene
-- Futsal
-- BasketBall
-- Badminton
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vitoputrasutarno/) to stay in touch and learn more about my junior in IT journey!.
-
+---
